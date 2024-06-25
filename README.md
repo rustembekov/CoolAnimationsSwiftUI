@@ -1,2 +1,2 @@
 #CoolAnimationsSwiftUI
-![Description of GIF](path/to/your-gif-file.gif)
+![Created by Geometry Reader](GifDemoPreviews/geometry-reader.gif)
