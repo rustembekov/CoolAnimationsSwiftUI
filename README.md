@@ -1,4 +1,6 @@
 # CoolAnimationsSwiftUI
+<h1 style="font-size: 62px;">You can find all the animations in the files here🔎</h2>
+
 <p align="center">
   <img src="GifDemoPreviews/geometry-reader.gif" alt="Created by Geometry Reader" width="500"/>
 </p>
