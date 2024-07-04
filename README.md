@@ -17,3 +17,11 @@
   <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">You can create cool animations to make part of the rectangle transparent, masks make the corresponding parts of the original view invisible.</span>
 </h2>
 
+<p align="center">
+  <img src="GifDemoPreviews/timer.gif" alt="Created by Timer" width="250"/>
+</p>
+
+<h2 align="center" style="font-size: 42px;">
+  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">You can create cool animations to make part of the circle progress view.</span>
+</h2>
+
