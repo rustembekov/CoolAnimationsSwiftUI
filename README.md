@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center" style="font-size: 42px;">
-  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">Created by Geometry Reader</span>
+  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">Created by Geometry Reader. Code in the GeometryReaderView()</span>
 </h2>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center" style="font-size: 42px;">
-  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">You can create cool animations to make part of the rectangle transparent, masks make the corresponding parts of the original view invisible.</span>
+  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">You can create cool animations to make part of the rectangle transparent, masks make the corresponding parts of the original view invisible.Code in the MaskView()</span>
 </h2>
 
 <p align="center">
@@ -22,6 +22,6 @@
 </p>
 
 <h2 align="center" style="font-size: 42px;">
-  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">You can create cool animations to make part of the circle progress view.</span>
+  <span style="font-family: 'Times New Roman', cursive; font-weight: bold;">You can create cool animations to make part of the circle using Timer. Code in the TimerView()</span>
 </h2>
 
