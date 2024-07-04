@@ -12,6 +12,7 @@
 		FA1C65BF2C2B436D0096350E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA1C65BE2C2B436D0096350E /* Preview Assets.xcassets */; };
 		FA1C65C72C2B44010096350E /* GeometryReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1C65C62C2B44010096350E /* GeometryReaderPractice.swift */; };
 		FA1C65CB2C2C27050096350E /* MaskPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1C65CA2C2C27050096350E /* MaskPractice.swift */; };
+		FA890DD22C36C7A600550FDA /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA890DD12C36C7A600550FDA /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		FA1C65BE2C2B436D0096350E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA1C65C62C2B44010096350E /* GeometryReaderPractice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeometryReaderPractice.swift; sourceTree = "<group>"; };
 		FA1C65CA2C2C27050096350E /* MaskPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskPractice.swift; sourceTree = "<group>"; };
+		FA890DD12C36C7A600550FDA /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		FA1C65B62C2B436B0096350E /* CoolAnimationsSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				FA890DD02C36C78A00550FDA /* Timer */,
 				FA1C65C92C2C25E00096350E /* Mask */,
 				FA1C65C52C2B43C20096350E /* GeometryReader */,
 				FA1C65BB2C2B436D0096350E /* Assets.xcassets */,
@@ -92,6 +95,14 @@
 				FA1C65CA2C2C27050096350E /* MaskPractice.swift */,
 			);
 			path = Mask;
+			sourceTree = "<group>";
+		};
+		FA890DD02C36C78A00550FDA /* Timer */ = {
+			isa = PBXGroup;
+			children = (
+				FA890DD12C36C7A600550FDA /* TimerView.swift */,
+			);
+			path = Timer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -166,6 +177,7 @@
 			files = (
 				FA1C65B82C2B436B0096350E /* CoolAnimationsApp.swift in Sources */,
 				FA1C65C72C2B44010096350E /* GeometryReaderPractice.swift in Sources */,
+				FA890DD22C36C7A600550FDA /* TimerView.swift in Sources */,
 				FA1C65CB2C2C27050096350E /* MaskPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
